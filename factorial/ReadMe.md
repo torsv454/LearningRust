@@ -1,8 +1,8 @@
-* Simple Command Line Program to Compute Factorials
+# Simple Command Line Program to Compute Factorials
 
 Trying out return codes, command line arguments, biguints, checked arithmetic, enums and structs. 
 
-** Usage
+## Usage
 
 ```
 factorial n1 [n2, ... nn]
